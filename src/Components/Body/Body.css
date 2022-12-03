@@ -1,0 +1,19 @@
+.leftSection {
+    background-color: rgb(242, 244, 250);
+}
+
+.rightSection {
+    background-color: white;
+    padding: 1%;
+}
+
+.person_image {
+    width: 100%;
+    height: 100%;
+}
+
+.personalInfoFirstSection,
+.personalInfoSecondSection,
+.breakRow {
+    background-color: rgb(242, 244, 250);
+}

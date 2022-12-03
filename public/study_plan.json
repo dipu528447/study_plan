@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "img": "https://www.bookemon.com/readbook/geng/879d31827dfc08a424c2c6583f8019b2/8752296.jpg?2014-03-04+11%3A53%3A37",
+    "name": "General Math",
+    "Teacher": "Shahidul Sir",
+    "time": 60
+  },
+  {
+    "id": "2",
+    "img": "https://image.isu.pub/181015173731-302378f7bf3690eff33d295fd51f06c2/jpg/page_1.jpg",
+    "name": "Artificial Intelligence ",
+    "Teacher": "Monisha Mam",
+    "time": 60
+  },
+  {
+    "id": "3",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/5102AwbnX7L._SX374_BO1,204,203,200_.jpg",
+    "name": "Discrete Mathematics",
+    "Teacher": "Swastika Mam",
+    "time": 90
+  },
+  {
+    "id": "4",
+    "img": "https://i0.wp.com/learnengineering.in/wp-content/uploads/2019/07/PDF-Computer-Fundamentals-By-P.-K.-Sinha-Free-Download.jpg?fit=399%2C499&ssl=1",
+    "name": "Computer Fundamentals",
+    "Teacher": "Emam Sir",
+    "time": 30
+  },
+  {
+    "id": "5",
+    "img": "https://images-platform.99static.com//oMZrn_ODj1TRBl72ZQlkKMlGA3A=/293x0:1721x1428/fit-in/500x500/99designs-contests-attachments/116/116739/attachment_116739326",
+    "name": "Computer Programming",
+    "Teacher": "Sowmitra Sir",
+    "time": 120
+  },
+  {
+    "id": "6",
+    "img": "https://images-platform.99static.com//WE9F54ATXej5u2LWshKJ4wlQ1-U=/192x192:1699x1699/fit-in/500x500/99designs-contests-attachments/118/118518/attachment_118518740",
+    "name": "Computer Networking",
+    "Teacher": "Farzana Mam",
+    "time": 60
+  },
+  {
+    "id": "7",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41SNoh5ZhOL._SX440_BO1,204,203,200_.jpg",
+    "name": "Computer Algorithms",
+    "Teacher": "Mahamudul Sir",
+    "time": 120
+  },
+  {
+    "id": "8",
+    "img": "https://i.ytimg.com/vi/BWprw8UHIzA/maxresdefault.jpg",
+    "name": "Design Pattern",
+    "Teacher": "Hasan Sir",
+    "time": 120
+  },
+  {
+    "id": "9",
+    "img": "https://www.pdbmbook.com/static/cover.png",
+    "name": "Database Managaement",
+    "Teacher": "Hoimonty Mam",
+    "time": 45
+  }
+]
